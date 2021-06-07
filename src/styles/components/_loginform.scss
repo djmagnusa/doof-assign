@@ -1,0 +1,122 @@
+.loginForm {
+    position: absolute;
+    width: 540px;
+    height: 425px;
+    left: 140px;
+    top: 229px;
+
+    input {
+        left: 0%;
+        right: 0%;
+        top: 35.06%;
+        bottom: 0%;
+
+        height: 50px;
+        width: 400px;
+        left: 0px;
+        top: 27px;
+        border-radius: 5px;
+        padding-left: 20px;
+
+        background: #F0F0F0;
+    }
+
+}
+
+.login__title {
+
+    width: 71px;
+    height: 29px;
+    left: 140px;
+    top: 229px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+
+    color: #333333;
+
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.login__credentials {
+    left: 0%;
+    right: 89.75%;
+    top: 0%;
+    bottom: 77.92%;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+
+
+    color: #A5A5A5;
+}
+
+.login__button {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    /* Primary */
+
+    background: #F7D832;
+    border-radius: 5px;
+
+    height: 50px;
+    width: 423px;
+    margin-top: 50px;
+    
+}
+
+.login__forgotpassword {
+    position: absolute;
+    width: 120px;
+    height: 17px;
+    left: 443px;
+    top: 248px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+/* identical to box height */
+
+
+/* Dark */
+
+color: #333333;
+
+}
+
+.login__forgot {
+    width: 321px;
+    height: 22px;
+    left: 140px;
+    top: 632px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    /* Dark */
+
+    color: #333333;
+
+    span{
+        font-weight: bold
+    }
+}

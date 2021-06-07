@@ -1,0 +1,60 @@
+.yellowBubble {
+    
+    // background: #FFE999;
+    background: #FFE999;
+    position: absolute;
+    width: 1124px;
+    height: 1124px;
+    left: 750px;
+    top: -154px;
+    border-radius: 50%;
+}
+
+.bubble__heading {
+    position: absolute;
+    width: 516px;
+    height: 44px;
+    left: 200px;
+    top: 263px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    
+    text-align: right;
+
+    padding-bottom: 21px;
+
+    color: #333333;
+}
+
+.bubble__description {
+    
+    position: absolute;
+    margin-top: 42px;
+
+    height: 44px;
+    width: 680px;
+    left: 85px;
+    top: 328px;
+    border-radius: nullpx;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: right;
+
+    color: #333333;
+
+}
+
+.bubble__image{
+    position: absolute;
+    top: 482px;
+    left: 238px;
+    width: 400px;
+
+}
